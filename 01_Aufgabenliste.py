@@ -35,7 +35,9 @@ def main():
                         break
                 else:
                         print("Bitte wählen sie zwischen 1, 2 oder drei")
-
+                        
+                        
+__name__=="__main__" # type1 ignore 
 main()
 
 
